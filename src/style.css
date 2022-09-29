@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#fields {
+  display: none !important;
+}
+
+#radios {
+  background: grey;
+}
